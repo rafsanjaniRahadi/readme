@@ -1,5 +1,5 @@
 <b>Readme</b>
 
 Tata Cara Penamaan Repo 
-- <Nama Aplikasi> - <Jenis>
+1. Nama Aplikasi - Jenis
  
